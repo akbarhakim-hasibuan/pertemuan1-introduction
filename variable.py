@@ -1,5 +1,5 @@
-Nama_Mahasiswa = 'Deni Aristoni'
-NomoeIndukMahasiswa = 201440039
+Nama_Mahasiswa = 'akbar hakim hasibuan'
+NomoeIndukMahasiswa = 201440037
 Kel = 'Instrumen_4A'
 
 print(f"Nama  : '{Nama_Mahasiswa}'")
