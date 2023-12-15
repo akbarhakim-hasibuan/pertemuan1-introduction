@@ -2,7 +2,7 @@
 
 ##Case 6
 
-Me = 'Hallo Gaes.. Nama saya Deni, usia saya sekarang beranjak ke 22 Tahun'
+Me = 'Hallo Gaes.. Nama saya akbar, usia saya sekarang beranjak ke 21 Tahun'
 print(f"Panjang Tulisan : {len(Me)}")
 print("\n")
 
@@ -26,7 +26,7 @@ print("\n")
 
 ##Case 7
 
-Me = 'Hallo Gaes.. Nama saya Deni, usia saya sekarang beranjak ke 22 Tahun'
+Me = 'Hallo Gaes.. Nama saya akbar, usia saya sekarang beranjak ke 21 Tahun'
 Saya = Me.split(' ')
 print(Saya)
 print(f" Index -10 : {Saya[10]}")
